@@ -14,7 +14,7 @@ const RecipeCard = ({ recipe }) => (
         rel="noopener noreferrer"
         className="text-blue-500 underline mt-2 inline-block"
       >
-        View Full Recipe/
+        View Full Recipe
       </a>
     </div>
   );
