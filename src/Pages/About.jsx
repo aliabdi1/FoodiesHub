@@ -4,9 +4,9 @@ const About = () => (
       <p>
         <h1></h1>FoodieHub is an app for food lovers filled with a variety of recepies to keep your culinary experiences filled with excitment.
       </p>
-    </div>
+    </div> 
   );
   
   export default About;
-
+gh
   
