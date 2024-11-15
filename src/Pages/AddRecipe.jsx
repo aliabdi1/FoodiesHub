@@ -1,4 +1,4 @@
-import RandomRecipe from "../components/RandomRecipe";
+import RandomRecipe from "../components/RadomRecipe";
 
 const AddRecipe = () => (
   <div>
