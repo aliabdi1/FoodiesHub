@@ -7,4 +7,4 @@ const AddRecipe = () => (
   </div>
 );
 
-export default AddRecipe; <kbd></kbd>
+export default AddRecipe; 
