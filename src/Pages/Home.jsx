@@ -7,5 +7,5 @@ const Home = () => (
   </div>
 );
 
-export default Home;jnlk
+export default Home;
   
