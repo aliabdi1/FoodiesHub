@@ -1,8 +1,8 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Navbar from "./components/Navbar";
-import Home from "./pages/Home";
-import AddRecipe from "./pages/AddRecipe";
-import About from "./pages/About";
+import Navbar from "./components/Navbar"
+import Home from "./Pages/Home";
+import AddRecipe from "./Pages/AddRecipe";
+import About from "./Pages/About";
 
 const App = () => {
   return (
